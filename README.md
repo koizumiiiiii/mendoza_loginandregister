@@ -35,6 +35,6 @@ flutter build windows  # Windows
 ```
 
 ### Author
-James Mendoza — BSIT Student
+James Mendoza — BSCS Student
 
 > Made for learning Flutter navigation and form handling. Feel free to fork and improve!
