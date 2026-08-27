@@ -12,7 +12,7 @@ class LandingPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Mendoza Activity 2'),
+        title: Text('Mendoza Activity 4'),
       ),
       body: Center(
         child: Column(

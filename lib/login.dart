@@ -44,7 +44,7 @@ class _LoginPageState extends State<LoginPage> {
     );
 
     return Scaffold(
-      appBar: AppBar(title: const Text('Mendoza Activity 2')),
+      appBar: AppBar(title: const Text('Mendoza Activity 4')),
       body: Center(
         child: SingleChildScrollView(
           padding: const EdgeInsets.all(20.0),
